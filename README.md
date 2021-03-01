@@ -1,7 +1,7 @@
 # Hi 👋, I'm Guyutongxue
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guyutongxue&show_icons=true" alt="guyutongxue">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyutongxue&layout=compact&hide=pascal" alt="guyutongxue">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyutongxue&layout=compact&hide=html" alt="guyutongxue">
 </p>
 
 Visit my [homepage](https://guyutongxue.github.io/) (in Chinese)!
