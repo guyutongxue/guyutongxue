@@ -1,7 +1,6 @@
 # Hi 👋, I'm Guyutongxue
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guyutongxue&show_icons=true" alt="guyutongxue">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyutongxue&layout=compact&hide=html" alt="guyutongxue">
+  <img alt="metrics" src="https://metrics.lecoq.io/Guyutongxue?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" >
 </p>
 
 Visit my [homepage](https://guyutongxue.github.io/) (in Chinese)!
